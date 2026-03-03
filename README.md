@@ -1,2 +1,1 @@
-# mtc-repo-62632
-Code for MTC repo
+# This dev repo is for infra developers
